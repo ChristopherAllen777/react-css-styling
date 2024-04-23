@@ -66,7 +66,7 @@ button:focus {
 
 .label.invalid {
   color: #f87171;
-}
+} 
 
 input.invalid {
   color: #ef4444;
